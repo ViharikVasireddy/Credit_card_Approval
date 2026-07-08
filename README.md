@@ -1,5 +1,5 @@
 # Credit_card_Approval
-This project tells that user is eligible to get the credir card approval based on time and amount.
+This project tells that user is eligible to get the credit card approval based on time and amount.
 
 # TEAM MEMBERS
 
